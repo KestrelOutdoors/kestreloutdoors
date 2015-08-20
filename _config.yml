@@ -1,0 +1,29 @@
+# Site settings
+title: Kestrel
+email: thomas_page@icloud.com
+description: > # this means to ignore newlines until "baseurl:"
+  Mountain walking with a qualified mountain leader in the Lake District & Snowdonia National Parks
+  Whether you are looking for a gentle introduction to hillwalking or a hike in more challenging terrain,
+  Kestrel would love to share the enjoyment of a mountain adventure with you.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://railsbench-huwd.c9.io/" # the base hostname & protocol for your site
+
+# Banner
+banner_image: lakeplacid.jpg
+banner_strapline: Unlock Adventure
+banner_subtitle: "Experience the beauty of Britain’s national parks with Kestrel"
+call_to_action_button_text: Book Now
+call_to_action_button_link: \booking\
+
+# Social Links for footer
+twitter_username: tompage
+instagram_username: tompage
+facebook_username: tompage
+
+# Build settings
+markdown: kramdown
+
+# Site variables
+site_designer: Huw Diprose
+site_designer_website: www.huwdiprose.co.uk

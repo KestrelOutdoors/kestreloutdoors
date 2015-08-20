@@ -1,0 +1,45 @@
+<!-- Footer -->
+<footer id="footer">
+	<ul class="icons">
+
+		{% if site.twitter_username %}
+		<li>
+			<a href="www.twitter.com"
+			  class="icon fa-twitter">
+				<span class="label">Twitter</span>
+			</a>
+		</li>
+		{% endif %}
+
+		{% if site.instagram_username %}
+		<li>
+			<a href="www.instagram.com"
+			  class="icon fa-instagram">
+				<span class="label">instagram</span>
+			</a>
+		</li>
+		{% endif %}
+
+		{% if site.facebook_username %}
+		<li>
+			<a href="www.facebook.com" class="icon fa-facebook">
+				<span class="label">Facebook</span>
+			</a>
+		</li>
+		{% endif %}
+
+
+		{% if site.email %}
+		<li>
+			<a href="mailto:{{ site.email}}"
+			  class="icon fa-envelope-o">
+				<span class="label">Email</span>
+			</a>
+		</li>
+		{% endif %}
+
+	</ul>
+	<ul class="copyright">
+		<li>&copy; Tom Page</li><li>Build by <a href="{{site.site_designer_website}}">{{site.site_designer}}</a></li>
+	</ul>
+</footer>
