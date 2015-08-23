@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: Kestrel | Terms & Conditions
+title: Terms & Conditions
 subtitle: Kestrel smallprint
 permalink: /terms-conditions/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: Kestrel | About
+title: About
 subtitle: Get to know Kestrel
 permalink: /about/
 ---
