@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: Book Now
+title: Kestrel | Book Now
 subtitle: Bookings and Enquiries- Your Trip begins here
 permalink: /booking/
 ---

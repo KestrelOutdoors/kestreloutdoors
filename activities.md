@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: Activities
+title: Kestrel | Activities
 subtitle: Customised days and courses to meet your aims
 permalink: /activities/
 ---
