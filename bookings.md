@@ -1,14 +1,9 @@
 ---
 layout: static_page
 title: Book Now
-subtitle: Submit forms or download pdfs to book
+subtitle: Bookings and Enquiries: Your Trip begins here
 permalink: /booking/
 ---
-
-Download forms.
-Submit the web form.
-
-You can book here.
 
 <section>
 <h4>Activity Booking Enquiry Form</h4>
