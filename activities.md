@@ -32,10 +32,6 @@ Although technology has come a long way, there is no substitute for a map and co
 This challenging day out for people with some prior experience of hillwalking will take you to the higher mountains of either the Lake District or Snowdonia national parks and, depending on your objectives and experience, might include a hike along an exposed ridge or a scramble up a rocky crag. On this ambitious day out which will include summiting several peaks, we'll take you on an adventure to remember.<br>
 <br>
 To get the most out of this activity, you'll need to have a reasonable level of fitness and some previous experience of hillwalking.
-<br/>
-<br/>
-<br/>
-<br/>
 </p>
 
 <h5>Charity Event Training</h5>
@@ -44,24 +40,14 @@ To get the most out of this activity, you'll need to have a reasonable level of 
 Long-distance sponsored walking events can seem really daunting, particularly if you’ve only limited prior experience of hillwalking. The emphasis of this day will be to prepare you for a longer day walking over difficult terrain. As well as a chance to do a longer walk with your team without having to worry about navigation along the way, this day will include: timing, break discipline, hydration, team cohesion, and basic injury prevention and management.<br>
 <br>
 Using this day out as part of your training will help you get prepared for the event, highlighting any further training needed but also showing you that you can overcome this challenge. Whilst no previous mountain walking is required, to get the most out of this activity you'll need a basic level of fitness for a long day out.
-<br/>
-<br/>
 </p>
 
 <h5>Wild Camp</h5>
 <p><span class="image left"><img src="../images/pic08.jpg" alt=""></span>
 
-Experience the adventure of an overnight camp within the Lake District or Snowdonia national parks with this expedition. Together we'll explore the mountains and find a suitable campsite. We'll discuss camo siting, sanitation and environmental considerations, as well as equipment. As this activity runs over two full days, the overall cost is £280 per group.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+Experience the adventure of an overnight camp within the Lake District or Snowdonia national parks with this expedition.<br>
+<br>
+Together we'll explore the mountains and find a suitable campsite. We'll discuss camo siting, sanitation and environmental considerations, as well as equipment. As this activity runs over two full days, the overall cost is £280 per group.
 </p>
 
 <h5>Tailored to you</h5>
