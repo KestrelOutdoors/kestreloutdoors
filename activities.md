@@ -47,7 +47,9 @@ Using this day out as part of your training will help you get prepared for the e
 
 Experience the adventure of an overnight camp within the Lake District or Snowdonia national parks with this expedition.<br>
 <br>
-Together we'll explore the mountains and find a suitable campsite. We'll discuss camo siting, sanitation and environmental considerations, as well as equipment. As this activity runs over two full days, the overall cost is £280 per group.
+Together we'll explore the mountains and find a suitable campsite. We'll discuss camo siting, sanitation and environmental considerations, as well as equipment.<br>
+<br>
+As this activity runs over two full days, the overall cost is £280 per group.
 </p>
 
 <h5>Tailored to you</h5>
