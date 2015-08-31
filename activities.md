@@ -4,7 +4,6 @@ title: Activities
 subtitle: Mountain walking in the Lake District and Snowdonia National Parks.
 permalink: /activities/
 ---
-
 Looking for more than the average hike? Kestrel has a range of activities to help you build skills, confidence or train for an upcomming event.
 
 Leader hire per day is £148 per group (maximum group size: 6 people) for any of the below activities unless otherwise stated.
