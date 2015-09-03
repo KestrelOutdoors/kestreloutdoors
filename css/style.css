@@ -1668,6 +1668,7 @@
 	}
 
 	input[type="text"],
+	input[type="date"],
 	input[type="password"],
 	input[type="email"],
 	select,
@@ -1688,6 +1689,7 @@
 	}
 
 		input[type="text"]:invalid,
+		input[type="date"]:invalid,
 		input[type="password"]:invalid,
 		input[type="email"]:invalid,
 		select:invalid,
@@ -1696,6 +1698,7 @@
 		}
 
 		input[type="text"]:focus,
+		input[type="date"]:focus,
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		select:focus,
@@ -1740,6 +1743,7 @@
 		}
 
 	input[type="text"],
+	input[type="date"],
 	input[type="password"],
 	input[type="email"],
 	select {
@@ -2682,6 +2686,7 @@
 			}
 
 			.wrapper.style1 input[type="text"],
+			.wrapper.style1 input[type="date"],
 			.wrapper.style1 input[type="password"],
 			.wrapper.style1 input[type="email"],
 			.wrapper.style1 select,
@@ -2840,6 +2845,7 @@
 			}
 
 			.wrapper.style3 input[type="text"],
+			.wrapper.style3 input[type="date"],
 			.wrapper.style3 input[type="password"],
 			.wrapper.style3 input[type="email"],
 			.wrapper.style3 select,
@@ -2998,6 +3004,7 @@
 			}
 
 			.wrapper.style5 input[type="text"],
+			.wrapper.style5 input[type="date"],
 			.wrapper.style5 input[type="password"],
 			.wrapper.style5 input[type="email"],
 			.wrapper.style5 select,
@@ -3814,43 +3821,33 @@
 	}
 
 
-/*Custom CSS additios -Huw */
+/* Custom CSS additios -Huw */
 
 	.notice {
 		color:red;
 	}
 
-/* Custom Google Form CSS */
-/*    .google-form-wrapper {
-      .error {
-        color: red;
-        font-size: 12px;
-      }
-      .errorbox-good {
-        margin-bottom: 20px;
-      }
-      .success-msg {
-        display: none;
-      }
-      .ss-form-entry {
-        label {
-          display:block;
-        }
-        input {
-          display: block;
-          padding: 5px;
-          width: 250px;
-          font: inherit;
-        }
-        textarea {
-          width: 450px;
-          padding: 5px;
-          font: inherit;
-        }
-      }
-      .ss-navigate input {
-        width: auto;
-        cursor: pointer;
-      }
-    }*/
-    
+	div.ss-form-entry label.error {
+		color: #ff0600;
+		font-size: 12px;
+		list-style-position: inside;
+		padding: 5px 0 0;
+	}
+
+	div.ss-form-entry label.error {
+		color: #ff0600;
+		font-size: 12px;
+		list-style-position: inside;
+		padding: 5px 0 0;
+	}
+
+	.ss-choices {
+		list-style-type: none;
+	}
+
+	.ss-choices label.error {
+		color: #ff0600;
+		font-size: 12px;
+		list-style-position: inside;
+		padding: 5px 0 0;
+	}

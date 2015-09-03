@@ -1,10 +1,11 @@
-var main = function() {
-	$('.hidden_div').hide();
+$(document).ready(function() {
+    // Hide additional participants based on selection
+    $('.hidden_div').hide();
 
-	$('#entry_87174897').change(function() {
-    	$('.hidden_div').hide();
-		$('.' + this.value).show();
-  });
-}
+    $('#entry_87174897').change(function() {
+	  $('.hidden_div').hide();
+	  $('.' + this.value).fadeIn();
+    });
 
-$(document).ready(main);
+	$("#ss-form").validate({meta: "validate"});
+});
