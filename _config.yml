@@ -14,7 +14,7 @@ url: "http://kestreloutdoors.co.uk/" # the base hostname & protocol for your sit
 banner_strapline: Unlock Adventure
 banner_subtitle: "Experience the beauty of Britain’s national parks with Kestrel"
 call_to_action_button_text: Book Now
-call_to_action_button_link: \booking\
+call_to_action_button_link: /booking/
 
 # Build settings
 markdown: kramdown
