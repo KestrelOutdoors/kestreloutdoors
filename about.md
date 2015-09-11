@@ -13,4 +13,7 @@ permalink: /about/
     <p>
     Having grown up in Cumbria, Tom has over 20 years experience hillwalking in the Lake District National Park. Tom is proud of Britain’s national parks and open access and enjoys showcasing these amazing places to people interested in enjoying the outdoors. He also loves developing hill skills in novices or people wanting to gain greater confidence to go out and enjoy the hills on their own. As well as a hill-walker, Tom is a skier and rock climber and has mountaineered in: the UK, the Alps, the Pyrenees, and the Rockies.
     </p>
+    <p>
+    Prior to qualifying as an outdoor instructor, Tom worked as a humanitarian aid-worker with missions to: Kenya, Nepal, Niger, Senegal, and South Sudan. 
+    </p>
 </section>
