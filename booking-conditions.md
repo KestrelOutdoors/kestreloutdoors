@@ -8,9 +8,6 @@ permalink: /booking-conditions/
 ###BMC Participant Statement
 
 <blockquote>
-<span class="image left">
-    <img src="../images/bmc.jpg" alt="">
-</span>
     Kestrel Outdoors recognises that climbing, hill walking and mountaineering are activities with a danger of personal injury or death. Although fully qualified for the activities offered, Kestrel Outdoors will not be able to eliminate the risks associated with these sports completely. Participants in these activities should be aware of, and accept, the risks and be responsible for their own actions and involvement.
 </blockquote>
 

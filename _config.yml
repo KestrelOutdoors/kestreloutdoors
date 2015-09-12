@@ -5,7 +5,6 @@ description: >
   Mountain walking with a qualified mountain leader in the Lake District & Snowdonia National Parks
   Whether you are looking for a gentle introduction to hillwalking or a hike in more challenging terrain,
   Kestrel would love to share the enjoyment of a mountain adventure with you.
-
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kestreloutdoors.co.uk/" # the base hostname & protocol for your site
 
