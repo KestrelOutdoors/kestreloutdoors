@@ -3844,10 +3844,3 @@
 	.ss-choices {
 		list-style-type: none;
 	}
-
-	.ss-choices label.error {
-		color: #ff0600;
-		font-size: 12px;
-		list-style-position: inside;
-		padding: 5px 0 0;
-	}
