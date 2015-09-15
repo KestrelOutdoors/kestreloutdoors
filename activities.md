@@ -11,8 +11,8 @@ Leader hire per day is £148 per group (maximum group size: 6 people) for any of
 <section>
     <div class="row-uniform">
         <div class="12u$">
-            <a name="Introtohillwalking"></a>
             <h5>Introduction to Hillwalking</h5>
+            <a name="Introtohillwalking"></a>
             <p><span class="image left"><img src="../images/pic04.jpg" alt=""></span>
 If you’re new to hillwalking and would like a gentle introduction to the sport from a qualified outdoor instructor, this is the activity for you. This day will include an easy-paced but interesting walk within Snowdonia or the Lake District national parks. Depending on your interests, your objectives for the day, and the route chosen, this activity may include: a discussion about route choice and basic map reading, weather, staying safe in the hills, clothing and other equipment, environmental considerations and flora of the hills, and a bit of industrial history. No previous experience is required, but come prepared for the weather (suggested kit list will be sent on booking).     
             </p>
