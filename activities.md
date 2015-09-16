@@ -62,7 +62,7 @@ Experience the adventure of an overnight camp within the Lake District or Snowdo
             <a name="You"></a>
             <h5>Activities tailored to you</h5>
             <p>
-Whether it is a multi-day adventure incorporating several of the activities described on the activity page, or something otherwise not mentioned, if you’re interested in another activity along similar lines, please do contact us to discuss your objectives and we’ll see what we can offer you.
+Whether it is a multi-day adventure incorporating several of the activities described on the activity page, or something otherwise not mentioned, if you’re interested in another activity along similar lines, please do <a href= "mailto:{{site.email }}">contact us</a> to discuss your objectives and we’ll see what we can offer you.
             </p>
         </div>
     </div>
