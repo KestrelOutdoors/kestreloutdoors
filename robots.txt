@@ -2,4 +2,4 @@ User-agent: *
 Disallow: 
 Disallow: /thank-you/
 Disallow: /publickey.asc
-Sitemap: http://kestreloutdoors.co.uk/sitemap.xml
+Sitemap: http://kestreloutdoors.co.uk/sitemap.txt
