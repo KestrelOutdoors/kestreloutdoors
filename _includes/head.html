@@ -2,10 +2,10 @@
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-  	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 	<meta name="keywords" content="Lake District Climbing Hiking Kestrel" />
 	<meta name="google-site-verification" content="swK26srhQ6cypvD_P-2HWULSku6i_nEEM3EipWJXF3M" />
-	
+
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
 
 	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
@@ -13,5 +13,8 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-	
+
+	<link rel="alternate" hreflang="en-gb" href="http://www.kestreloutdoors.co.uk/" />
+	<link rel="alternate" hreflang="x-default" href="http://www.kestreloutdoors.co.uk/" />
+
 </head>
